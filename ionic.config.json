@@ -1,0 +1,7 @@
+{
+  "name": "Parkin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
